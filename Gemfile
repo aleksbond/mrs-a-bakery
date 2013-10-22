@@ -11,6 +11,7 @@ gem 'turbolinks'
 gem 'jbuilder', '~> 1.2'
 gem 'rspec-rails', '~> 2.0'
 gem 'comfortable_mexican_sofa', '~> 1.9.0'
+gem 'twitter-bootstrap-rails'
 
 
 group :doc do
